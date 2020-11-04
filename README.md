@@ -35,7 +35,7 @@ now you can visit localhost:8000 and see the project
 
 ![contact](https://user-images.githubusercontent.com/21082218/98152062-69fb3100-1ed1-11eb-824c-15881efcbbf3.PNG)
 
-# Strip payement
+# Stripe payement
 
 ![create](https://user-images.githubusercontent.com/21082218/98152212-a62e9180-1ed1-11eb-94fc-570593749f34.PNG)
 
