@@ -21,7 +21,7 @@ php artisan migrate
 
 php artisan serve
 
-now you can visit localhost:8000 and see the project
+Now you can visit localhost:8000 and see project
 
 # HomePage
 
